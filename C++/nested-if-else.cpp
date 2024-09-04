@@ -13,7 +13,7 @@ cout<<"Excelent";
  }
 
  else if(marks>=33){  
-      cout<<"pass";
+      cout<<"pass"<<endl;
 }
 
 
@@ -21,8 +21,13 @@ cout<<"Excelent";
 else
 {
 
-cout<<"fail";
+cout<<"fail"<<endl;
 }
+
+marks>=33?    cout<<"pass" <<endl :cout<<"fail";
+
+
+
 return 0;
 }
 

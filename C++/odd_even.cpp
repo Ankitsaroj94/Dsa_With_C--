@@ -10,12 +10,12 @@ if(
     number%2==0
 
 ){
-    cout<<"odd";
+    cout<<"even";
 
 }
 
 else{
-    cout<<"even";
+    cout<<"odd";
 }
 return 0;
 }
